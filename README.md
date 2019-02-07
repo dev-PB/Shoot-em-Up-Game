@@ -17,3 +17,5 @@ Planning, assignment, and record of progress documents have not been included in
 * Navigate the menus using the on screen instructions.
 * Once in game, use the arrow keys to move left and right and press the 'X' key in order to fire.
 * Defeat enemies to gain points, keep going until you run out of lives.
+
+© Ryan Wilson 2018. All rights reserved.

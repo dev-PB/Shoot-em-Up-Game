@@ -3,7 +3,7 @@ A simple vertical scrolling shoot 'em up game I made for an assignment back in 2
 Personal information has been redacted from this version.
 Planning, assignment, and record of progress documents have not been included in this repo.
 
-*NOTE: This repo serves as an archive of this project, kept the way it was when it handed it in. I will not be continuing development on it.*
+*NOTE: This repo serves as an archive of this project, kept the way it was when I handed it in. I will not be continuing development on it.*
 
 ## Requirements
 * [Python 3](https://www.python.org/)
